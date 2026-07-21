@@ -1,0 +1,37 @@
+# Source files
+src/**
+tests/**
+
+# Build configs
+webpack.config.js
+webpack.webview.config.js
+webpack.wrapper.config.js
+tsconfig.json
+tsconfig.webview.json
+jest.config.js
+
+# Development files
+.gitignore
+.vscode/**
+!vscode/mcp.json
+
+# Test files
+test-server.js
+test-e2e.js
+
+# Node modules - only include bundled output
+node_modules/**
+
+# Documentation source
+docs/**
+
+# Build artifacts
+out/**/*.ts
+out/**/*.ts.map
+out/**/*.js.map
+
+# Keep only necessary files
+!dist/**
+!out/extension.js
+!out/wrapper.js
+!media/**

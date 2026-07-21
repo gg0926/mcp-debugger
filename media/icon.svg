@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- 下层阴影 -->
+  <path d="M5 6 L27 6 L10 26 L27 26" stroke="#334455" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(2,2)"/>
+  <!-- 上层主线条 -->
+  <path d="M4 5 L26 5 L9 25 L26 25" stroke="#dde4ed" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

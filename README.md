@@ -4,6 +4,8 @@
 
 > 专为 [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) 设计的实时监控与调试工具。
 
+**GitHub:** [https://github.com/gg0926/mcp-debugger](https://github.com/gg0926/mcp-debugger)
+
 ## 功能特性
 
 - **实时监控**：可视化展示 MCP Host 与 Server 之间的所有 JSON-RPC 通信
@@ -16,15 +18,15 @@
 
 ## 安装
 
-### 从 VS Code Marketplace（推荐）
+### 从 GitHub Release（推荐）
 
-在 VS Code 中搜索 "MCP Debugger" 并安装。
-
-### 从 VSIX 文件
-
-1. 下载最新的 `.vsix` 文件
+1. 下载最新的 `.vsix` 文件：[mcp-debugger-0.0.1.vsix](https://github.com/gg0926/mcp-debugger/releases/download/v0.0.1/mcp-debugger-0.0.1.vsix)
 2. 在 VS Code 中按 `Ctrl+Shift+P`，输入 `Extensions: Install from VSIX`
 3. 选择下载的 `.vsix` 文件
+
+### 从 VS Code Marketplace
+
+即将发布到 VS Code Marketplace，敬请期待！
 
 ## 快速开始
 

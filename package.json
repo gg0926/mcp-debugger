@@ -3,7 +3,7 @@
   "displayName": "MCP Debugger",
   "description": "Real-time debugging and monitoring for MCP (Model Context Protocol) Servers",
   "version": "0.0.1",
-  "publisher": "mcp-debugger",
+  "publisher": "gg0926",
   "license": "MIT",
   "engines": {
     "vscode": "^1.90.0"
